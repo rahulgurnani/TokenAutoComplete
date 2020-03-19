@@ -36,7 +36,9 @@ public class TestCleanTokenActivity extends AppCompatActivity {
                 new Person("Margaret Smith", "margaret@example.com"),
                 new Person("Max Jordan", "max@example.com"),
                 new Person("Meg Peterson", "meg@example.com"),
-                new Person("Amanda Johnson", "amanda@example.com"),
+                new Person("Amanda Johnson",
+                    "amdfasdfadfadfasdfasdfasdfasdfsdfasdfsdafsdffsdfsdfsdfsdfdfsdfsandasadfhajkdhfkjahsdfjkhaksdfhkasdhfkha@example" +
+                        ".com"),
                 new Person("Terry Anderson", "terry@example.com"),
                 new Person("Siniša Damianos Pilirani Karoline Slootmaekers",
                         "siniša_damianos_pilirani_karoline_slootmaekers@example.com")
